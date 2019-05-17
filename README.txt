@@ -1,0 +1,1 @@
+The files in this project contain some information about Elon Musk. All the information provided are extracted from Wikipedia. I chose him because he is a real influencer not only for people who want to learn computer science or space science, but also for those who want to begin a career that seems impossilble.
